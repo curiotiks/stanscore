@@ -1,0 +1,26 @@
+{
+  "name": "stanscores",
+  "version": "1.0.0",
+  "description": "A simple webpage that one can enter raw score, mean, and SD to receive multiple standardized scores.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/curtiks/stanscore.git"
+  },
+  "keywords": [
+    "statistics",
+    "education",
+    "standardized",
+    "testing",
+    "assessment"
+  ],
+  "author": "Curt Fulwider",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/curtiks/stanscore/issues"
+  },
+  "homepage": "https://github.com/curtiks/stanscore#readme"
+}
